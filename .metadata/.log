@@ -209,3 +209,63 @@ java.lang.ClassNotFoundException: org.springframework.ide.vscode.commons.protoco
 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+!ENTRY mergedoc.encoding 2 0 2023-10-22 21:13:36.607
+!MESSAGE リソース '/spring_security_sample/src/main/java/com/example/config/SecurityConfig.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2023-10-22 21:13:36.609
+!MESSAGE リソース '/spring_security_sample/src/main/java/com/example/config/SecurityConfig.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2023-10-22 21:13:36.614
+!MESSAGE リソース '/spring_security_sample/src/main/java/com/example/config/SecurityConfig.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2023-10-22 21:13:36.616
+!MESSAGE リソース '/spring_security_sample/src/main/java/com/example/config/SecurityConfig.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2023-10-22 21:13:36.662
+!MESSAGE リソース '/spring_security_sample/src/main/java/com/example/config/SecurityConfig.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2023-10-22 21:13:36.664
+!MESSAGE リソース '/spring_security_sample/src/main/java/com/example/config/SecurityConfig.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2023-10-22 21:13:57.760
+!MESSAGE リソース '/spring_security_sample/com.example.config/SecurityConfig.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2023-10-22 21:13:57.763
+!MESSAGE リソース '/spring_security_sample/com.example.config/SecurityConfig.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2023-10-22 21:13:57.766
+!MESSAGE リソース '/spring_security_sample/com.example.config/SecurityConfig.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2023-10-22 21:13:57.768
+!MESSAGE リソース '/spring_security_sample/com.example.config/SecurityConfig.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2023-10-22 21:13:57.806
+!MESSAGE リソース '/spring_security_sample/com.example.config/SecurityConfig.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2023-10-22 21:13:57.808
+!MESSAGE リソース '/spring_security_sample/com.example.config/SecurityConfig.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2023-10-22 21:14:57.714
+!MESSAGE リソース '/spring_security_sample/src/main/java/com/example/com.example.config/SecurityConfig.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2023-10-22 21:14:57.715
+!MESSAGE リソース '/spring_security_sample/src/main/java/com/example/com.example.config/SecurityConfig.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2023-10-22 21:14:57.749
+!MESSAGE リソース '/spring_security_sample/src/main/java/com/example/com.example.config/SecurityConfig.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2023-10-22 21:14:57.751
+!MESSAGE リソース '/spring_security_sample/src/main/java/com/example/com.example.config/SecurityConfig.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2023-10-22 21:14:57.754
+!MESSAGE リソース '/spring_security_sample/src/main/java/com/example/com.example.config/SecurityConfig.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2023-10-22 21:14:57.757
+!MESSAGE リソース '/spring_security_sample/src/main/java/com/example/com.example.config/SecurityConfig.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2023-10-22 21:14:57.792
+!MESSAGE リソース '/spring_security_sample/src/main/java/com/example/com.example.config/SecurityConfig.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2023-10-22 21:14:57.793
+!MESSAGE リソース '/spring_security_sample/src/main/java/com/example/com.example.config/SecurityConfig.java' が存在しません。
